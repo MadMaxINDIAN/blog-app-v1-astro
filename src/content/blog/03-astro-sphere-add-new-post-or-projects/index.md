@@ -1,12 +1,12 @@
 ---
-title: "Astro Sphere: Adding a new post or project."
+title: "Naman Khater: Adding a new post or project."
 summary: "Adding a new article (blog post or project) is pretty easy."
-date: "Mar 14 2024"
+date: "Mar 14 2025"
 draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Naman Khater
 ---
 ### Basics
 
@@ -41,14 +41,14 @@ Example blog post frontmatter
 
 ```yaml
 ---
-title: "Astro Sphere: Adding a new post or project."
+title: "Naman Khater: Adding a new post or project."
 summary: "Adding a new article (blog post or project) is pretty easy."
-date: "Mar 18 2024"
+date: "Mar 18 2025"
 draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Naman Khater
 ---
 ```
 
@@ -68,9 +68,9 @@ Example project frontmatter
 
 ```yaml
 ---
-title: "Astro Sphere"
-summary: "Astro Sphere, a portfolio and blog for designers and developers."
-date: "Mar 18 2024"
+title: "Naman Khater"
+summary: "Naman Khater, a portfolio and blog for designers and developers."
+date: "Mar 18 2025"
 draft: false
 tags:
 - Astro
@@ -79,7 +79,7 @@ tags:
 - Tailwind
 - SolidJS
 demoUrl: https://astro-sphere.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+repoUrl: https://github.com/Naman-dev/astro-sphere
 ---
 ```
 

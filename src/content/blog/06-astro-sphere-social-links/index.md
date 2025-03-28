@@ -1,15 +1,15 @@
 ---
-title: "Astro Sphere: Social media links"
+title: "Naman Khater: Social media links"
 summary: "A quick tutorial on how to change, add or remove social media links"
-date: "Mar 11 2024"
+date: "Mar 11 2025"
 draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Naman Khater
 ---
 
-Astro Sphere comes preconfigured with social media links for Email, Github, Linked In and Twitter (X), but it's very easy to add more.
+Naman Khater comes preconfigured with social media links for Email, Github, Linked In and Twitter (X), but it's very easy to add more.
 
 ### Edit `consts.ts`
 
@@ -20,8 +20,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "Naman-dev",
+    HREF: "https://github.com/Naman-dev/astro-sphere"
   },
 ]
 ```

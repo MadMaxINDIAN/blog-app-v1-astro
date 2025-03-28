@@ -1,15 +1,15 @@
 ---
-title: "Astro Sphere: Getting Started"
+title: "Naman Khater: Getting Started"
 summary: "You've downloaded and installed the project. Let's hit the ground running."
-date: "Mar 16 2024"
+date: "Mar 16 2025"
 draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Naman Khater
 ---
 
-Astro Sphere is designed to be configurable. This article will cover the basics on
+Naman Khater is designed to be configurable. This article will cover the basics on
 configuring the site and make it personal.
 
 ### First let's change the url
@@ -29,8 +29,8 @@ export default defineConfig({
 // src/consts.ts
 
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
+  TITLE: "Naman Khater",
+  DESCRIPTION: "Welcome to Naman Khater, a portfolio and blog for designers and developers.",
   AUTHOR: "Mark Horn",
 }
 ```
@@ -76,8 +76,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "Naman-dev",
+    HREF: "https://github.com/Naman-dev/astro-sphere"
   },
 ]
 ```
